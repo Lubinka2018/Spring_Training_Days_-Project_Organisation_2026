@@ -1,50 +1,40 @@
-# Organiseren en opschonenen van data
+# Organising and Cleaning Data
 
-## Werkwijze
+## Working Method
 
-- Werk in groepen van drie (of paren)
-- Spreek af of een iemand de opdracht op een laptop uitvoert of iedereen op zijn eigen laptop werkt
-- Als iedereen op zijn eigen laptop werkt, zorg ervoor dat jullie de voortgang met elkaar bespreken
-- Maak je geen zorgen als je de oefeningen niet hebt kunnen afmaken. Je kunt
-je project naar de volgende stap brengen.
-- Vraag om hulp wanneer nodig, we ondersteunen je graag!
-- Gebruik de post it om aan te geven dat je hulp nodig hebt door deze aan de achterkant van je laptop te plakken
-- Een helper komt naar je toe.
+- Work in groups of three (or pairs)
+- Agree whether one person completes the assignment on a laptop or whether everyone works on their own laptop
+- If everyone works on their own laptop, make sure to discuss progress with each other
+- Don’t worry if you haven’t finished the exercises. You can bring your project to the next step.
+- Ask for help when needed — we are happy to support you!
+- Use the post-it to indicate that you need help by sticking it on the back of your laptop
+- A helper will come to you.
 
-## Oefening
+## Exercise
 
-**Voordat je begint:** Zorg ervoor dat je: [download the
+**Before you start:** Make sure you: [download the
 data](https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/raw/main/data/datafiles.zip)
-Pak de bestanden uit.
+Extract the files.
 
-*Houd er rekening mee dat de informatie over de onderstaande gegevens fictief is en voor
-de doeleinden van de oefening. Als je meer wilt weten over de gegevens die in
-deze oefeningen worden gebruikt, [click here](../data/README.md).*
+*Please note that the information about the data below is fictional and intended for
+the purposes of the exercise. If you want to learn more about the data used in
+these exercises, [click here](../data/README.md).*
 
-#Je werkt aan een onderzoeksproject over [Wood
-ducks](https://en.wikipedia.org/wiki/Wood_duck) en hebt studenten naar het veld gestuurd om gegevens te verzamelen. Ze hebben je sjabloon gebruikt en informatie ingevuld
-over de nesten die ze hebben onderzocht. Deze ruwe gegevensinvoer is je startpunt. Het is
-jouw taak om ze om te zetten in een deelbaar project.
+You are working on a research project about [Wood ducks](https://en.wikipedia.org/wiki/Wood_duck) and have sent students into the field to collect data. They have used your template and filled in information about the nests they studied. This raw data entry is your starting point. Your task is to turn it into a shareable project.
 
-1. Maak een enkele map waarin het hele project wordt opgeslagen. Geef het
-een eenvoudige naam (zonder spaties).
-2. Bedenk een projectstructuur. Welke mappen heb je nodig en hoe ga je ze
-structureren?
-3. Plaats de gegevensbestanden in een van de mappen. Hernoem ze zodat het duidelijk is wat
-ze bevatten.
-4. Maak één overkoepelend gegevensbestand dat alle gegevens uit de ruwe bestanden bevat.
-Denk aan:
-* Zijn de gegevens in een 'nette' indeling, zodat toekomstige verwerking soepel verloopt?
-* Komen alle eenheden overeen? Is het duidelijk wat ze zijn?
-* Is het bestandsformaat interoperabel?
-* Waar wilt je dit bestand in uw mappenstructuur opslaan?
-5. Schrijf README-bestand(en) voor jouw project:
-* Begin met een README voor het hele project.
-* Denkt je dat het nodig is om een ​​README voor de gegevens te maken? Waarom (niet)? 
-Zo ja: maak er een!
+1. Create a single folder in which the entire project will be stored. Give it a simple name (without spaces).
+2. Design a project structure. Which folders do you need and how will you structure them?
+3. Place the data files in one of the folders. Rename them so it is clear what they contain.
+4. Create one overarching dataset that combines all data from the raw files. Consider:
+   * Is the data in a 'tidy' format so that future processing will run smoothly?
+   * Do all units match? Is it clear what they are?
+   * Is the file format interoperable?
+   * Where do you want to store this file in your folder structure?
+5. Write README file(s) for your project:
+   * Start with a README for the entire project.
+   * Do you think a README for the data is necessary? Why (not)? If so, create one!
 
-
-## Referenties en links
+## References and links
 
 - [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 - [Research Compendia in The Turing Way](https://the-turing-way.netlify.app/reproducible-research/compendia.html)
@@ -52,5 +42,3 @@ Zo ja: maak er een!
 - [Making a README for wet lab work, by Jonathan Peelle](http://jonathanpeelle.net/making-a-readme-file)
 - [Naming Things, by Jenny Bryan](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
 - [Tidy data chapter in R4DS](https://r4ds.had.co.nz/tidy-data.html)
-
-
